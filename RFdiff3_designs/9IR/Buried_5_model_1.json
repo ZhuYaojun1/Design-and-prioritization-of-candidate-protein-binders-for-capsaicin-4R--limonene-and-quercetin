@@ -1,0 +1,50 @@
+{
+    "diffused_index_map": {},
+    "metrics": {
+        "max_ca_deviation": 0.07270574569702148,
+        "n_chainbreaks": 0,
+        "n_clashing.interresidue_clashes_w_sidechain": 0,
+        "n_clashing.interresidue_clashes_w_backbone": 0,
+        "n_clashing.ligand_clashes": 0,
+        "n_clashing.ligand_min_distance": 3.6302452087402344,
+        "non_loop_fraction": 0.9107142857142857,
+        "loop_fraction": 0.08928571428571429,
+        "helix_fraction": 0.9107142857142857,
+        "sheet_fraction": 0.0,
+        "num_ss_elements": 4,
+        "radius_of_gyration": 14.122635806279659,
+        "alanine_content": 0.36607142857142855,
+        "glycine_content": 0.017857142857142856,
+        "num_residues": 112,
+        "diffused_com": [
+            2.262782335281372,
+            -1.4294394254684448,
+            -2.224811553955078
+        ]
+    },
+    "specification": {
+        "input": "/home/a/rf_diffusion_test/small_molecule_design/9IR.pdb",
+        "length": "80-120",
+        "ligand": "9IR",
+        "extra": {
+            "example": "9IR_buried",
+            "task_name": "9IR_9IR_buried",
+            "sampled_contig": "112",
+            "num_tokens_in": 113,
+            "num_residues_in": 113,
+            "num_chains": 2,
+            "num_atoms": 570,
+            "num_residues": 115,
+            "example_id": "9IR_9IR_buried_5"
+        },
+        "select_fixed_atoms": {
+            "9IR": ""
+        },
+        "select_unfixed_sequence": false,
+        "select_buried": {
+            "9IR": "C,C1,C2,C3,C4,C5,C6,C7,C8,C9"
+        }
+    },
+    "ckpt_path": "/home/a/.foundry/checkpoints/rfd3_latest.ckpt",
+    "seed": null
+}
