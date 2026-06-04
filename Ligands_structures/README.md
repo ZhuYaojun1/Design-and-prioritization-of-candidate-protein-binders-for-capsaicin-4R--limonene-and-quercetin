@@ -17,14 +17,14 @@ For RFdiffusion3 input, remove hydrogens and keep only heavy atoms.
 
 PyMOL commands:
 
-text
 remove hydro
 alter all, resn="9IR"
-alter all, chain="B"       # or chain="L" as needed
-alter all, resi="392"      # set to desired residue number (e.g., 1)
+alter all, chain="B"
+alter all, resi="392"
 alter all, segi=""
 alter all, q=1.00
 alter all, b=0.00
 alter all, type="HETATM"
 sort
+
 This procedure produces a PDB structure ready for RFdiffusion3 input.
