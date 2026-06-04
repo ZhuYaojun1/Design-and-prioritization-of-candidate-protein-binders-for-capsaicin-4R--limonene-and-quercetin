@@ -1,0 +1,50 @@
+{
+    "diffused_index_map": {},
+    "metrics": {
+        "max_ca_deviation": 0.04623055458068848,
+        "n_chainbreaks": 0,
+        "n_clashing.interresidue_clashes_w_sidechain": 0,
+        "n_clashing.interresidue_clashes_w_backbone": 0,
+        "n_clashing.ligand_clashes": 0,
+        "n_clashing.ligand_min_distance": 2.9446604251861572,
+        "non_loop_fraction": 0.20192307692307693,
+        "loop_fraction": 0.7980769230769231,
+        "helix_fraction": 0.0,
+        "sheet_fraction": 0.20192307692307693,
+        "num_ss_elements": 3,
+        "radius_of_gyration": 12.106927306542888,
+        "alanine_content": 0.20192307692307693,
+        "glycine_content": 0.125,
+        "num_residues": 104,
+        "diffused_com": [
+            1.453350305557251,
+            0.3170936703681946,
+            0.9207208156585693
+        ]
+    },
+    "specification": {
+        "input": "/home/a/rf_diffusion_test/small_molecule_design/QUE.pdb",
+        "length": "100-150",
+        "ligand": "QUE",
+        "extra": {
+            "example": "QUE_buried",
+            "task_name": "QUE_QUE_buried",
+            "sampled_contig": "104",
+            "num_tokens_in": 105,
+            "num_residues_in": 105,
+            "num_chains": 2,
+            "num_atoms": 542,
+            "num_residues": 107,
+            "example_id": "QUE_QUE_buried_0"
+        },
+        "select_fixed_atoms": {
+            "QUE": ""
+        },
+        "select_unfixed_sequence": false,
+        "select_buried": {
+            "QUE": "C1,C2,C3,C4,C5,C6,C9,C10,C11,C14,C15,C16,C17,C18,C19,O12,O13,O23,O24,O27,O29,O30"
+        }
+    },
+    "ckpt_path": "/home/a/.foundry/checkpoints/rfd3_latest.ckpt",
+    "seed": null
+}
