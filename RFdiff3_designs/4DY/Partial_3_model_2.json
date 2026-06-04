@@ -1,0 +1,53 @@
+{
+    "diffused_index_map": {},
+    "metrics": {
+        "max_ca_deviation": 0.06995749473571777,
+        "n_chainbreaks": 0,
+        "n_clashing.interresidue_clashes_w_sidechain": 0,
+        "n_clashing.interresidue_clashes_w_backbone": 0,
+        "n_clashing.ligand_clashes": 0,
+        "n_clashing.ligand_min_distance": 3.681381940841675,
+        "non_loop_fraction": 0.6545454545454545,
+        "loop_fraction": 0.34545454545454546,
+        "helix_fraction": 0.6545454545454545,
+        "sheet_fraction": 0.0,
+        "num_ss_elements": 5,
+        "radius_of_gyration": 13.10373495925528,
+        "alanine_content": 0.17272727272727273,
+        "glycine_content": 0.02727272727272727,
+        "num_residues": 110,
+        "diffused_com": [
+            -0.5308281183242798,
+            0.5839197039604187,
+            -1.1574838161468506
+        ]
+    },
+    "specification": {
+        "input": "/home/a/rf_diffusion_test/small_molecule_design/4DY.pdb",
+        "length": "100-150",
+        "ligand": "4DY",
+        "extra": {
+            "example": "4DY_partial",
+            "task_name": "4DY_4DY_partial",
+            "sampled_contig": "110",
+            "num_tokens_in": 111,
+            "num_residues_in": 111,
+            "num_chains": 2,
+            "num_atoms": 572,
+            "num_residues": 113,
+            "example_id": "4DY_4DY_partial_3"
+        },
+        "select_fixed_atoms": {
+            "4DY": ""
+        },
+        "select_unfixed_sequence": false,
+        "select_buried": {
+            "4DY": "C1,C2,C3,C4,C5,C6,O10,O12,C13,C17,N21,C22,O23,C24,C27"
+        },
+        "select_exposed": {
+            "4DY": "C30,C33,C36,C37,C38,C40,C44"
+        }
+    },
+    "ckpt_path": "/home/a/.foundry/checkpoints/rfd3_latest.ckpt",
+    "seed": null
+}
