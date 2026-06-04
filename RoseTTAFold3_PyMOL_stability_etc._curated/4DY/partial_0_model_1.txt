@@ -1,0 +1,11 @@
+Sequence ID                solubility   usability
+"partial_0_model_1_b0_d0       0.6101      0.4282
+"partial_0_model_1_b0_d1       0.8088      0.4536
+"partial_0_model_1_b0_d2       0.6677      0.4242
+"partial_0_model_1_b0_d3       0.5787      0.4061
+"partial_0_model_1_b0_d4       0.6714      0.4233
+"partial_0_model_1_b0_d5       0.5692      0.4253
+"partial_0_model_1_b0_d6       0.7519      0.4431
+"partial_0_model_1_b0_d7       0.7225      0.4340
+"partial_0_model_1_b0_d8       0.7566      0.4892
+"partial_0_model_1_b0_d9       0.7486      0.4570

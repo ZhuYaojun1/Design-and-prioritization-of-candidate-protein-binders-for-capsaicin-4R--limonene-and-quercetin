@@ -1,0 +1,11 @@
+﻿backbone_id,sample_id,matched_CA_atom_count,global_ca_rmsd_A,global_backbone_rmsd_after_CA_fit_A,pocket_ca_rmsd_after_CA_fit_A,pocket_backbone_rmsd_after_CA_fit_A,ref_ca_rg_A,pred_ca_rg_A,delta_ca_rg_A,projected_min_protein_ligand_distance_A,projected_delta_ligand_clash_pair_count,projected_ligand_clash_pair_count_backbone,projected_ligand_clash_pair_count_sidechain,reference_contact_position_count,projected_contact_position_count,projected_contact_recovery_percent,projected_new_contact_percent,reference_hydrophobic_C_contact_pair_count,projected_hydrophobic_C_contact_pair_count,pred_mean_CA_Bfactor,pred_pocket_mean_CA_Bfactor
+partial_2_model_3,1,126,2.5599,2.7053,1.1713,1.1933,13.7113,14.3506,0.6393,1.7244,1,0,1,17,17,88.2353,11.7647,27,50,0.8828,0.8982
+partial_2_model_3,2,126,0.8968,0.9972,0.5087,0.5132,13.7113,13.6478,-0.0635,2.184,0,0,0,17,16,94.1176,0.0,27,32,0.9039,0.9166
+partial_2_model_3,3,126,2.2996,2.438,1.2863,1.2965,13.7113,13.6777,-0.0336,0.6906,8,0,8,17,18,94.1176,11.1111,27,76,0.8885,0.8981
+partial_2_model_3,4,126,0.7741,0.809,0.6763,0.6744,13.7113,13.6208,-0.0905,2.1073,0,0,0,17,17,94.1176,5.8824,27,78,0.881,0.8948
+partial_2_model_3,5,126,3.3206,3.2836,2.7337,2.7041,13.7113,13.8335,0.1222,0.965,13,0,13,17,16,76.4706,18.75,27,124,0.8485,0.8561
+partial_2_model_3,6,126,7.431,7.5876,7.231,7.6951,13.7113,13.4477,-0.2636,0.6005,28,16,12,17,16,52.9412,43.75,27,144,0.7928,0.7974
+partial_2_model_3,7,126,0.9702,1.0658,0.49,0.4702,13.7113,13.6776,-0.0337,2.2776,0,0,0,17,18,100.0,5.5556,27,35,0.8977,0.9097
+partial_2_model_3,8,126,8.0097,8.0389,8.4116,8.8122,13.7113,14.1209,0.4096,0.5835,45,17,28,17,17,58.8235,41.1765,27,155,0.7608,0.7657
+partial_2_model_3,9,126,4.0474,4.055,3.2703,3.2504,13.7113,14.4001,0.6888,1.0353,15,0,15,17,15,58.8235,33.3333,27,122,0.85,0.8517
+partial_2_model_3,10,126,0.9408,1.0256,0.6645,0.6702,13.7113,13.6411,-0.0702,2.2178,0,0,0,17,17,94.1176,5.8824,27,49,0.8893,0.9035
