@@ -1,0 +1,82 @@
+2026-06-01 21:45:30,420 | INFO | Input directory: C:\Users\Lenovo\Desktop\small_molecule_design\5_Filtering_structure\9IR\in_9IR
+2026-06-01 21:45:30,420 | INFO | Output directory: C:\Users\Lenovo\Desktop\small_molecule_design\5_Filtering_structure\9IR\out_9IR_batch_selection
+2026-06-01 21:45:30,477 | INFO | Discovered 75 complete triplets and 75 TXT-defined batches.
+2026-06-01 21:45:30,750 | INFO | [buried_0_model_0] Strict_selected -> buried_0_model_0_0 | contact=100.0000 | interface=0.4000 | RMSD=0.5923 | risks=None
+2026-06-01 21:45:30,775 | INFO | [buried_0_model_2] Strict_selected -> buried_0_model_2_3 | contact=100.0000 | interface=0.7143 | RMSD=0.5604 | risks=None
+2026-06-01 21:45:30,799 | INFO | [buried_0_model_3] Strict_selected -> buried_0_model_3_3 | contact=100.0000 | interface=0.5000 | RMSD=0.5211 | risks=None
+2026-06-01 21:45:30,823 | INFO | [buried_0_model_4] Conditional_selected -> buried_0_model_4_7 | contact=92.3077 | interface=0.8235 | RMSD=0.3930 | risks=None
+2026-06-01 21:45:30,847 | INFO | [buried_0_model_5] Strict_selected -> buried_0_model_5_6 | contact=100.0000 | interface=0.6429 | RMSD=0.2526 | risks=None
+2026-06-01 21:45:30,871 | WARNING | [buried_0_model_6] REJECTED; repair=buried_0_model_6_3; alternative=buried_0_model_6_6; focus=Clash_removal_from_stable_candidate | clashes=13 | contact=75.0000 | RMSD=1.0433
+2026-06-01 21:45:30,897 | WARNING | [buried_0_model_7] REJECTED; repair=buried_0_model_7_2; alternative=buried_0_model_7_0; focus=Clash_removal_from_stable_candidate | clashes=3 | contact=77.7778 | RMSD=1.0667
+2026-06-01 21:45:30,920 | INFO | [buried_0_model_8] Conditional_selected -> buried_0_model_8_7 | contact=91.6667 | interface=0.8125 | RMSD=0.4903 | risks=None
+2026-06-01 21:45:30,945 | INFO | [buried_1_model_0] Conditional_selected -> buried_1_model_0_1 | contact=92.3077 | interface=0.6875 | RMSD=1.4237 | risks=pocket_RMSD_above_1A
+2026-06-01 21:45:30,970 | INFO | [buried_1_model_3] Strict_selected -> buried_1_model_3_0 | contact=100.0000 | interface=0.8333 | RMSD=0.3633 | risks=None
+2026-06-01 21:45:30,997 | INFO | [buried_1_model_5] Strict_selected -> buried_1_model_5_1 | contact=100.0000 | interface=0.6364 | RMSD=0.4396 | risks=None
+2026-06-01 21:45:31,023 | WARNING | [buried_1_model_6] REJECTED; repair=buried_1_model_6_6; alternative=buried_1_model_6_9; focus=Clash_removal_from_stable_candidate | clashes=2 | contact=81.8182 | RMSD=0.4896
+2026-06-01 21:45:31,050 | WARNING | [buried_1_model_7] REJECTED; repair=buried_1_model_7_7; alternative=buried_1_model_7_8; focus=Stability_optimization_of_clash_free_candidate | clashes=0 | contact=92.3077 | RMSD=0.7404
+2026-06-01 21:45:31,075 | INFO | [buried_1_model_9] Conditional_selected -> buried_1_model_9_0 | contact=84.6154 | interface=0.6250 | RMSD=0.4862 | risks=contact_recovery_below_90
+2026-06-01 21:45:31,100 | INFO | [buried_2_model_2] Conditional_selected -> buried_2_model_2_7 | contact=92.3077 | interface=0.5333 | RMSD=0.3475 | risks=None
+2026-06-01 21:45:31,124 | INFO | [buried_2_model_3] Strict_selected -> buried_2_model_3_0 | contact=100.0000 | interface=0.5625 | RMSD=0.4359 | risks=None
+2026-06-01 21:45:31,149 | INFO | [buried_2_model_4] Strict_selected -> buried_2_model_4_7 | contact=100.0000 | interface=0.7692 | RMSD=0.5254 | risks=None
+2026-06-01 21:45:31,174 | INFO | [buried_2_model_5] Conditional_selected -> buried_2_model_5_5 | contact=76.9231 | interface=0.5000 | RMSD=0.4702 | risks=contact_recovery_below_90
+2026-06-01 21:45:31,198 | INFO | [buried_2_model_7] Strict_selected -> buried_2_model_7_4 | contact=100.0000 | interface=0.5714 | RMSD=0.4198 | risks=None
+2026-06-01 21:45:31,223 | INFO | [buried_2_model_8] Strict_selected -> buried_2_model_8_6 | contact=100.0000 | interface=0.8462 | RMSD=0.3858 | risks=None
+2026-06-01 21:45:31,251 | WARNING | [buried_2_model_9] REJECTED; repair=buried_2_model_9_4; alternative=buried_2_model_9_5; focus=Clash_removal_from_stable_candidate | clashes=3 | contact=90.9091 | RMSD=1.4385
+2026-06-01 21:45:31,275 | WARNING | [buried_3_model_0] REJECTED; repair=buried_3_model_0_1; alternative=; focus=Stability_optimization_of_clash_free_candidate | clashes=0 | contact=100.0000 | RMSD=0.7463
+2026-06-01 21:45:31,299 | INFO | [buried_3_model_1] Strict_selected -> buried_3_model_1_7 | contact=100.0000 | interface=0.4286 | RMSD=0.3375 | risks=None
+2026-06-01 21:45:31,327 | WARNING | [buried_3_model_2] REJECTED; repair=buried_3_model_2_7; alternative=buried_3_model_2_8; focus=Clash_removal_from_stable_candidate | clashes=10 | contact=92.3077 | RMSD=2.1381
+2026-06-01 21:45:31,354 | INFO | [buried_3_model_3] Conditional_selected -> buried_3_model_3_6 | contact=92.8571 | interface=0.6667 | RMSD=0.4878 | risks=None
+2026-06-01 21:45:31,379 | INFO | [buried_3_model_5] Conditional_selected -> buried_3_model_5_5 | contact=90.9091 | interface=0.9231 | RMSD=1.1097 | risks=pocket_RMSD_above_1A
+2026-06-01 21:45:31,404 | WARNING | [buried_3_model_7] REJECTED; repair=buried_3_model_7_7; alternative=buried_3_model_7_2; focus=Clash_removal_from_stable_candidate | clashes=4 | contact=100.0000 | RMSD=0.6955
+2026-06-01 21:45:31,428 | INFO | [buried_3_model_8] Conditional_selected -> buried_3_model_8_5 | contact=91.6667 | interface=0.5385 | RMSD=1.2307 | risks=pocket_RMSD_above_1A
+2026-06-01 21:45:31,455 | WARNING | [buried_3_model_9] REJECTED; repair=buried_3_model_9_9; alternative=buried_3_model_9_1; focus=Redesign_required_no_stable_candidate | clashes=1 | contact=80.0000 | RMSD=1.4601
+2026-06-01 21:45:31,479 | INFO | [buried_4_model_0] Conditional_selected -> buried_4_model_0_6 | contact=81.8182 | interface=0.7500 | RMSD=1.4561 | risks=contact_recovery_below_90;pocket_RMSD_above_1A
+2026-06-01 21:45:31,503 | WARNING | [buried_4_model_2] REJECTED; repair=buried_4_model_2_4; alternative=buried_4_model_2_3; focus=Clash_removal_from_stable_candidate | clashes=8 | contact=80.0000 | RMSD=2.4987
+2026-06-01 21:45:31,526 | INFO | [buried_4_model_3] Strict_selected -> buried_4_model_3_9 | contact=100.0000 | interface=0.5385 | RMSD=0.8141 | risks=None
+2026-06-01 21:45:31,551 | INFO | [buried_4_model_5] Strict_selected -> buried_4_model_5_4 | contact=100.0000 | interface=0.5333 | RMSD=0.3083 | risks=None
+2026-06-01 21:45:31,575 | INFO | [buried_4_model_6] Strict_selected -> buried_4_model_6_1 | contact=100.0000 | interface=0.8000 | RMSD=0.4465 | risks=None
+2026-06-01 21:45:31,600 | INFO | [buried_4_model_7] Conditional_selected -> buried_4_model_7_9 | contact=90.9091 | interface=0.6471 | RMSD=0.5357 | risks=None
+2026-06-01 21:45:31,626 | INFO | [buried_4_model_8] Conditional_selected -> buried_4_model_8_0 | contact=88.8889 | interface=0.6364 | RMSD=0.4916 | risks=contact_recovery_below_90
+2026-06-01 21:45:31,654 | WARNING | [buried_4_model_9] REJECTED; repair=buried_4_model_9_6; alternative=buried_4_model_9_8; focus=Stability_optimization_of_clash_free_candidate | clashes=0 | contact=92.3077 | RMSD=0.4095
+2026-06-01 21:45:31,677 | INFO | [buried_5_model_0] Conditional_selected -> buried_5_model_0_6 | contact=54.5455 | interface=0.8750 | RMSD=2.1772 | risks=contact_recovery_below_90;pocket_RMSD_above_1A
+2026-06-01 21:45:31,701 | INFO | [buried_5_model_1] Conditional_selected -> buried_5_model_1_1 | contact=92.3077 | interface=0.3846 | RMSD=0.3832 | risks=None
+2026-06-01 21:45:31,726 | INFO | [buried_5_model_2] Strict_selected -> buried_5_model_2_5 | contact=100.0000 | interface=0.7143 | RMSD=0.2594 | risks=None
+2026-06-01 21:45:31,751 | INFO | [buried_5_model_3] Conditional_selected -> buried_5_model_3_3 | contact=88.8889 | interface=0.6154 | RMSD=0.3803 | risks=contact_recovery_below_90
+2026-06-01 21:45:31,777 | INFO | [buried_5_model_4] Conditional_selected -> buried_5_model_4_3 | contact=90.9091 | interface=0.5833 | RMSD=0.5146 | risks=None
+2026-06-01 21:45:31,801 | INFO | [buried_5_model_5] Strict_selected -> buried_5_model_5_4 | contact=100.0000 | interface=0.5714 | RMSD=0.3749 | risks=None
+2026-06-01 21:45:31,828 | WARNING | [buried_5_model_6] REJECTED; repair=buried_5_model_6_3; alternative=buried_5_model_6_6; focus=Clash_removal_from_stable_candidate | clashes=1 | contact=100.0000 | RMSD=0.6100
+2026-06-01 21:45:31,853 | INFO | [buried_5_model_7] Strict_selected -> buried_5_model_7_7 | contact=100.0000 | interface=0.6250 | RMSD=0.4964 | risks=None
+2026-06-01 21:45:31,878 | WARNING | [buried_5_model_9] REJECTED; repair=buried_5_model_9_4; alternative=buried_5_model_9_7; focus=Clash_removal_from_stable_candidate | clashes=1 | contact=100.0000 | RMSD=0.2485
+2026-06-01 21:45:31,902 | INFO | [buried_6_model_1] Strict_selected -> buried_6_model_1_3 | contact=100.0000 | interface=0.7500 | RMSD=0.6249 | risks=None
+2026-06-01 21:45:31,928 | WARNING | [buried_6_model_2] REJECTED; repair=buried_6_model_2_3; alternative=buried_6_model_2_9; focus=Clash_removal_from_stable_candidate | clashes=7 | contact=91.6667 | RMSD=0.9121
+2026-06-01 21:45:31,953 | INFO | [buried_6_model_3] Strict_selected -> buried_6_model_3_8 | contact=100.0000 | interface=0.3636 | RMSD=0.7684 | risks=None
+2026-06-01 21:45:31,976 | INFO | [buried_6_model_4] Conditional_selected -> buried_6_model_4_6 | contact=90.9091 | interface=0.8182 | RMSD=0.7026 | risks=None
+2026-06-01 21:45:32,003 | WARNING | [buried_6_model_5] REJECTED; repair=buried_6_model_5_7; alternative=buried_6_model_5_2; focus=Clash_removal_from_stable_candidate | clashes=1 | contact=77.7778 | RMSD=2.6087
+2026-06-01 21:45:32,027 | WARNING | [buried_6_model_6] REJECTED; repair=buried_6_model_6_8; alternative=buried_6_model_6_0; focus=Clash_removal_from_stable_candidate | clashes=5 | contact=80.0000 | RMSD=1.5785
+2026-06-01 21:45:32,050 | INFO | [buried_6_model_9] Strict_selected -> buried_6_model_9_7 | contact=100.0000 | interface=0.8462 | RMSD=0.9626 | risks=None
+2026-06-01 21:45:32,098 | WARNING | [buried_7_model_1] REJECTED; repair=buried_7_model_1_0; alternative=buried_7_model_1_1; focus=Clash_removal_from_stable_candidate | clashes=5 | contact=80.0000 | RMSD=1.6667
+2026-06-01 21:45:32,122 | INFO | [buried_7_model_2] Strict_selected -> buried_7_model_2_0 | contact=100.0000 | interface=0.7500 | RMSD=0.5477 | risks=None
+2026-06-01 21:45:32,146 | INFO | [buried_7_model_3] Conditional_selected -> buried_7_model_3_1 | contact=83.3333 | interface=0.5000 | RMSD=0.9276 | risks=contact_recovery_below_90
+2026-06-01 21:45:32,171 | INFO | [buried_7_model_4] Conditional_selected -> buried_7_model_4_5 | contact=80.0000 | interface=0.5833 | RMSD=0.6994 | risks=contact_recovery_below_90
+2026-06-01 21:45:32,196 | INFO | [buried_7_model_5] Conditional_selected -> buried_7_model_5_8 | contact=91.6667 | interface=0.9286 | RMSD=0.4035 | risks=None
+2026-06-01 21:45:32,223 | INFO | [buried_7_model_6] Strict_selected -> buried_7_model_6_3 | contact=100.0000 | interface=0.7692 | RMSD=0.4732 | risks=None
+2026-06-01 21:45:32,248 | INFO | [buried_7_model_7] Conditional_selected -> buried_7_model_7_9 | contact=75.0000 | interface=0.5000 | RMSD=0.4343 | risks=contact_recovery_below_90
+2026-06-01 21:45:32,272 | WARNING | [buried_8_model_1] REJECTED; repair=buried_8_model_1_5; alternative=buried_8_model_1_4; focus=Clash_removal_from_stable_candidate | clashes=1 | contact=78.5714 | RMSD=0.5814
+2026-06-01 21:45:32,298 | INFO | [buried_8_model_2] Strict_selected -> buried_8_model_2_7 | contact=100.0000 | interface=0.5714 | RMSD=0.6101 | risks=None
+2026-06-01 21:45:32,322 | INFO | [buried_8_model_3] Conditional_selected -> buried_8_model_3_1 | contact=92.3077 | interface=0.6667 | RMSD=0.5412 | risks=None
+2026-06-01 21:45:32,347 | INFO | [buried_8_model_4] Conditional_selected -> buried_8_model_4_2 | contact=91.6667 | interface=0.4667 | RMSD=0.6622 | risks=None
+2026-06-01 21:45:32,373 | WARNING | [buried_8_model_5] REJECTED; repair=buried_8_model_5_9; alternative=buried_8_model_5_6; focus=Clash_removal_from_stable_candidate | clashes=1 | contact=78.5714 | RMSD=0.5356
+2026-06-01 21:45:32,399 | INFO | [buried_8_model_6] Strict_selected -> buried_8_model_6_4 | contact=100.0000 | interface=0.8667 | RMSD=0.7468 | risks=None
+2026-06-01 21:45:32,424 | INFO | [buried_8_model_7] Conditional_selected -> buried_8_model_7_8 | contact=92.8571 | interface=0.7333 | RMSD=0.4106 | risks=None
+2026-06-01 21:45:32,451 | WARNING | [buried_8_model_8] REJECTED; repair=buried_8_model_8_4; alternative=buried_8_model_8_0; focus=Clash_removal_from_stable_candidate | clashes=2 | contact=69.2308 | RMSD=2.8257
+2026-06-01 21:45:32,477 | INFO | [buried_8_model_9] Strict_selected -> buried_8_model_9_1 | contact=100.0000 | interface=0.8750 | RMSD=0.3674 | risks=None
+2026-06-01 21:45:32,504 | INFO | [buried_9_model_0] Strict_selected -> buried_9_model_0_4 | contact=100.0000 | interface=0.6154 | RMSD=0.7573 | risks=None
+2026-06-01 21:45:32,528 | INFO | [buried_9_model_3] Conditional_selected -> buried_9_model_3_1 | contact=91.6667 | interface=0.5385 | RMSD=0.4342 | risks=None
+2026-06-01 21:45:32,552 | INFO | [buried_9_model_4] Strict_selected -> buried_9_model_4_6 | contact=100.0000 | interface=0.8571 | RMSD=0.4509 | risks=None
+2026-06-01 21:45:32,577 | INFO | [buried_9_model_6] Strict_selected -> buried_9_model_6_5 | contact=100.0000 | interface=0.7857 | RMSD=0.6965 | risks=None
+2026-06-01 21:45:32,604 | WARNING | [buried_9_model_8] REJECTED; repair=buried_9_model_8_8; alternative=buried_9_model_8_4; focus=Clash_removal_from_stable_candidate | clashes=2 | contact=81.8182 | RMSD=2.9179
+2026-06-01 21:45:32,630 | INFO | [buried_9_model_9] Conditional_selected -> buried_9_model_9_6 | contact=78.5714 | interface=0.6000 | RMSD=0.4834 | risks=contact_recovery_below_90
+2026-06-01 21:45:32,679 | INFO | Completed successfully: 75 backbones, 750 candidate structures.
+2026-06-01 21:45:32,679 | INFO | Status counts: {'Strict_selected': 28, 'Conditional_selected': 26, 'Rejected_repair_required': 21}
+2026-06-01 21:45:32,679 | INFO | Accepted representatives for docking: 54
+2026-06-01 21:45:32,679 | INFO | Output files written to: C:\Users\Lenovo\Desktop\small_molecule_design\5_Filtering_structure\9IR\out_9IR_batch_selection

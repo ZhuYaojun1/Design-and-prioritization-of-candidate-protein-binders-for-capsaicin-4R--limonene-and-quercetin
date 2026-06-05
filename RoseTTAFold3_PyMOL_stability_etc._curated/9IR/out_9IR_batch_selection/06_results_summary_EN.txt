@@ -1,0 +1,15 @@
+﻿Batch screening summary for back-predicted 9IR-binding structures
+Generated: 2026-06-01 21:45:32
+
+A total of 75 candidate 9IR-binding backbones, comprising 750 LigandMPNN-designed and structure-back-predicted candidates, were integrated and evaluated. Candidates predicted to be Stable and free of projected ligand clashes were first retained. Among them, structures achieving 100% recovery of the original designed ligand-contact positions were defined as strict representatives. Accordingly, 28 backbones yielded a strict representative, 26 backbones yielded a conditional clash-free representative with incomplete contact recovery, and 21 backbones were classified as requiring repair or redesign because no Stable clash-free candidate was available. In total, 54 representative structures were retained for downstream docking screening.
+
+For strict representatives, the pocket backbone RMSD was 0.4848 (median; range 0.2526-0.9626) Å and the ligand-interface sequence recovery was 0.6786 (median; range 0.3636-0.8750). For conditional representatives, the pocket backbone RMSD was 0.4909 (median; range 0.3475-2.1772) Å and the contact recovery rate was 90.9091 (median; range 54.5455-92.8571)%. Conditional representatives should be re-evaluated after docking before being advanced to longer molecular dynamics simulations.
+
+Strict representatives:
+buried_0_model_0_0, buried_0_model_2_3, buried_0_model_3_3, buried_0_model_5_6, buried_1_model_3_0, buried_1_model_5_1, buried_2_model_3_0, buried_2_model_4_7, buried_2_model_7_4, buried_2_model_8_6, buried_3_model_1_7, buried_4_model_3_9, buried_4_model_5_4, buried_4_model_6_1, buried_5_model_2_5, buried_5_model_5_4, buried_5_model_7_7, buried_6_model_1_3, buried_6_model_3_8, buried_6_model_9_7, buried_7_model_2_0, buried_7_model_6_3, buried_8_model_2_7, buried_8_model_6_4, buried_8_model_9_1, buried_9_model_0_4, buried_9_model_4_6, buried_9_model_6_5
+
+Conditional representatives:
+buried_0_model_4_7, buried_0_model_8_7, buried_1_model_0_1, buried_1_model_9_0, buried_2_model_2_7, buried_2_model_5_5, buried_3_model_3_6, buried_3_model_5_5, buried_3_model_8_5, buried_4_model_0_6, buried_4_model_7_9, buried_4_model_8_0, buried_5_model_0_6, buried_5_model_1_1, buried_5_model_3_3, buried_5_model_4_3, buried_6_model_4_6, buried_7_model_3_1, buried_7_model_4_5, buried_7_model_5_8, buried_7_model_7_9, buried_8_model_3_1, buried_8_model_4_2, buried_8_model_7_8, buried_9_model_3_1, buried_9_model_9_6
+
+Rejected or repair-required backbones:
+buried_0_model_6, buried_0_model_7, buried_1_model_6, buried_1_model_7, buried_2_model_9, buried_3_model_0, buried_3_model_2, buried_3_model_7, buried_3_model_9, buried_4_model_2, buried_4_model_9, buried_5_model_6, buried_5_model_9, buried_6_model_2, buried_6_model_5, buried_6_model_6, buried_7_model_1, buried_8_model_1, buried_8_model_5, buried_8_model_8, buried_9_model_8
