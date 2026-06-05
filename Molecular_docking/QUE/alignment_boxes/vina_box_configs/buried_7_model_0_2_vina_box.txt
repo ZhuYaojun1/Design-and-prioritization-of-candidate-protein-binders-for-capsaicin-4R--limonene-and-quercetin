@@ -1,0 +1,16 @@
+receptor = C:\Users\Lenovo\Desktop\small_molecule_design\6_AutoDock_Vina\QUE\02_prepared_PDBQT\receptors\buried_7_model_0_2_aligned_RF3.pdbqt
+ligand = C:\Users\Lenovo\Desktop\small_molecule_design\6_AutoDock_Vina\QUE\QUE_PDBQT\QUE_ideal.pdbqt
+
+center_x = 2.866
+center_y = -1.963
+center_z = -2.855
+
+size_x = 20.000
+size_y = 20.000
+size_z = 20.000
+
+exhaustiveness = 32
+num_modes = 10
+energy_range = 5
+
+out = C:\Users\Lenovo\Desktop\small_molecule_design\6_AutoDock_Vina\QUE\03_vina_docking\outputs\buried_7_model_0_2_QUE_out.pdbqt

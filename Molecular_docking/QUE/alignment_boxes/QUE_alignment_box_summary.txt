@@ -1,0 +1,18 @@
+QUE RF3–RFD3 对齐与 docking box 生成摘要
+==================================================================
+输入配对结构数量：32
+成功完成对齐并生成 box 数量：32
+失败数量：0
+
+对齐质量：
+对齐后 Cα RMSD 中位数：0.6972 Å
+对齐后 Cα RMSD 最大值：1.6741 Å
+对齐后 Cα RMSD > 1.0 Å 的结构数量：3
+
+输出文件：
+对齐后的 RF3 PDB 文件夹：C:\Users\Lenovo\Desktop\small_molecule_design\6_AutoDock_Vina\QUE\01_alignment_boxes\aligned_RF3_PDB
+设计态 QUE 参考结构文件夹：C:\Users\Lenovo\Desktop\small_molecule_design\6_AutoDock_Vina\QUE\01_alignment_boxes\reference_QUE_PDB
+Vina box 配置文件夹：C:\Users\Lenovo\Desktop\small_molecule_design\6_AutoDock_Vina\QUE\01_alignment_boxes\vina_box_configs
+汇总结果 CSV：C:\Users\Lenovo\Desktop\small_molecule_design\6_AutoDock_Vina\QUE\01_alignment_boxes\QUE_32_alignment_box_summary.csv
+错误记录 CSV：无
+==================================================================
