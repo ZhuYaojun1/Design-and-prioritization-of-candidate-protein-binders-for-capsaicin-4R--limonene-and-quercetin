@@ -1,0 +1,21 @@
+HETATM    1  C   9IR B 101      -1.193  -2.236  -1.689  1.00 -0.00      B    C  
+HETATM    2  C1  9IR B 101      -1.294  -1.800  -2.979  1.00  0.00      B    C  
+HETATM    3  C2  9IR B 101      -2.148  -2.405  -3.865  1.00  0.00      B    C  
+HETATM    4  C3  9IR B 101      -2.931  -3.470  -3.428  1.00 -0.00      B    C  
+HETATM    5  C4  9IR B 101      -3.871  -4.096  -4.343  1.00  0.00      B    C  
+HETATM    6  C5  9IR B 101      -2.821  -3.922  -2.161  1.00  0.00      B    C  
+HETATM    7  C6  9IR B 101      -1.956  -3.308  -1.261  1.00  0.00      B    C  
+HETATM    8  C7  9IR B 101      -0.366  -1.601  -0.777  1.00  0.00      B    C  
+HETATM    9  C8  9IR B 101       0.134  -0.278  -1.055  1.00  0.00      B    C  
+HETATM   10  C9  9IR B 101      -0.064  -2.193   0.499  1.00  0.00      B    C  
+CONECT    1    2    7    8
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5    6
+CONECT    5    4
+CONECT    6    4    7
+CONECT    7    1    6
+CONECT    8    1    9   10
+CONECT    9    8
+CONECT   10    8
+END
