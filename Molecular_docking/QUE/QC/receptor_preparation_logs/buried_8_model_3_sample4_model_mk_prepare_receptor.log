@@ -1,0 +1,19 @@
+﻿matched with excess inter-residue bond(s): A:19
+matched with excess inter-residue bond(s): A:128
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Lenovo\Desktop\small_molecule_design\6_AutoDock_Vina\4DY\.vina_env\Scripts\mk_prepare_receptor.exe\__main__.py", line 5, in <module>
+  File "C:\Users\Lenovo\Desktop\small_molecule_design\6_AutoDock_Vina\4DY\.vina_env\Lib\site-packages\meeko\cli\mk_prepare_receptor.py", line 628, in main
+    polymer = Polymer.from_pdb_string(
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Desktop\small_molecule_design\6_AutoDock_Vina\4DY\.vina_env\Lib\site-packages\meeko\polymer.py", line 1139, in from_pdb_string
+    polymer = cls(
+              ^^^^
+  File "C:\Users\Lenovo\Desktop\small_molecule_design\6_AutoDock_Vina\4DY\.vina_env\Lib\site-packages\meeko\polymer.py", line 931, in __init__
+    padded_mols = self._build_padded_mols(self.monomers, bonds, padders)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\Desktop\small_molecule_design\6_AutoDock_Vina\4DY\.vina_env\Lib\site-packages\meeko\polymer.py", line 1801, in _build_padded_mols
+    raise RuntimeError(err_msg)
+RuntimeError: Expected 2 paddings for (A:19, A:128) with bonds [(1, 18)], but got 0
+System.Management.Automation.RemoteException

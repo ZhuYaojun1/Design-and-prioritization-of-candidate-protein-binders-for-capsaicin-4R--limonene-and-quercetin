@@ -1,0 +1,21 @@
+﻿QUE 对接输入文件检查摘要
+============================================================
+代表结构数量：32
+
+RF3 receptor：
+找到对应 receptor 文件数量：32
+已为 PDBQT 格式的 receptor 数量：0
+
+RFD3–QUE 参考复合物：
+找到对应复合物数量：32
+
+完整 RF3 receptor / RFD3 complex 配对数量：32
+
+QUE ligand：
+QUE_ideal.sdf 是否存在：True
+QUE_ideal.pdbqt 是否存在：False
+
+输出文件：
+配对关系表：C:\Users\Lenovo\Desktop\small_molecule_design\6_AutoDock_Vina\QUE\00_input_check\QUE_32_receptor_RFD3_pairing.csv
+缺失或待处理文件表：C:\Users\Lenovo\Desktop\small_molecule_design\6_AutoDock_Vina\QUE\00_input_check\QUE_32_missing_or_unresolved_files.csv
+============================================================
