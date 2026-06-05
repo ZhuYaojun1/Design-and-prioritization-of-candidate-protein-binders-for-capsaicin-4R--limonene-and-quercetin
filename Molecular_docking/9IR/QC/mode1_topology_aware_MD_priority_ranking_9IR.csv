@@ -1,0 +1,3 @@
+﻿receptor_id,md_selection_bucket,redocking_validation_tier,vina_affinity_kcal_mol,topology_aware_in_place_rmsd_A,centroid_shift_A,contact_recovery_percent,new_contact_percent_of_docked,contact_jaccard,pocket_alignment_rmsd_A,pocket_alignment_risk
+buried_6_model_1_sample4_model,Not_priority_for_initial_MD,Tier_B_partially_supported_pose,-5.172,2.1627,0.9849,83.3333,9.0909,0.7692,0.5388,Acceptable_pocket_alignment
+buried_1_model_0_sample2_model,Not_priority_for_initial_MD,Tier_C_low_priority_pose,-5.956,4.4046,0.8767,83.3333,33.3333,0.5882,0.6647,Acceptable_pocket_alignment
