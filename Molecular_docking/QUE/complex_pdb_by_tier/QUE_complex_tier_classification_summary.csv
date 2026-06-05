@@ -1,0 +1,31 @@
+﻿receptor id,tier,redocking_validation_tier,vina_affinity_kcal_mol,in_place_rmsd_A,centroid_shift_A,contact_recovery_percent,polar_contact_recovery_percent,pocket_alignment_risk
+buried 6 model 3 sample 2,Tier_A,Tier_A_connectivity_and_polar_supported_pose,-9.082,1.7552,0.9097,94.4444,100,Acceptable_pocket_alignment
+buried 1 model 0 sample 8 ,Tier_A,Tier_A_connectivity_and_polar_supported_pose,-8.635,1.1457,0.4121,91.3043,81.8182,Acceptable_pocket_alignment
+buried 4 model 3 sample 8 ,Tier_A,Tier_A_connectivity_and_polar_supported_pose,-8.275,0.8355,0.7234,85,75,Acceptable_pocket_alignment
+buried 6 model 1 sample 5 ,Tier_A,Tier_A_connectivity_and_polar_supported_pose,-7.895,1.3126,0.2991,75,,Acceptable_pocket_alignment
+buried 5 model 6 sample 8 ,Tier_A,Tier_A_connectivity_and_polar_supported_pose,-7.745,0.8982,0.6986,95.2381,60,Acceptable_pocket_alignment
+buried 0 model 7 sample 1,Tier_B,Tier_B_partially_supported_pose,-8.745,1.0008,0.6942,71.4286,100,Acceptable_pocket_alignment
+buried 7 model 9 sample 4 ,Tier_B,Tier_B_partially_supported_pose,-8.519,2.064,1.095,77.7778,50,Acceptable_pocket_alignment
+buried 7 model 2 sample 4 ,Tier_B,Tier_B_partially_supported_pose,-8.255,1.294,1.188,82.3529,100,Acceptable_pocket_alignment
+buried 4 model 0 sample 9 ,Tier_B,Tier_B_partially_supported_pose,-6.997,1.8283,1.3834,75,62.5,Acceptable_pocket_alignment
+buried 6 model 5 sample 3 ,Tier_C,Tier_C_low_priority_pose,-9.284,3.4403,2.6163,72.2222,50,Acceptable_pocket_alignment
+buried 1 model 1 sample 1 ,Tier_C,Tier_C_low_priority_pose,-9.044,6.6595,0.8708,88.2353,66.6667,Acceptable_pocket_alignment
+buried 4 model 6 sample 7 ,Tier_C,Tier_C_low_priority_pose,-8.981,3.4656,1.5997,86.6667,33.3333,Borderline_pocket_deviation
+buried 3 model 6 sample 3 ,Tier_C,Tier_C_low_priority_pose,-8.976,4.1969,2.4164,61.1111,42.8571,Acceptable_pocket_alignment
+buried 5 model 0 sample 5 ,Tier_C,Tier_C_low_priority_pose,-8.664,6.883,0.5658,82.3529,40,Acceptable_pocket_alignment
+buried 2 model 2 sample 1 ,Tier_C,Tier_C_low_priority_pose,-8.488,3.6914,1.6857,83.3333,0,Acceptable_pocket_alignment
+buried 4 model 5 sample 1 ,Tier_C,Tier_C_low_priority_pose,-8.487,3.521,3.1621,55.5556,0,Acceptable_pocket_alignment
+buried 6 model 7 sample 10 ,Tier_C,Tier_C_low_priority_pose,-8.115,6.3438,1.6843,56.25,0,Acceptable_pocket_alignment
+buried 6 model 8 sample 9 ,Tier_C,Tier_C_low_priority_pose,-8.035,6.6757,4.6357,61.5385,0,Acceptable_pocket_alignment
+buried 5 model 3 sample 6 ,Tier_C,Tier_C_low_priority_pose,-7.811,6.9351,0.4465,75,33.3333,High_risk_pocket_deviation
+buried 7 model 0 sample 3 ,Tier_C,Tier_C_low_priority_pose,-7.779,3.3245,1.71,75,25,Acceptable_pocket_alignment
+buried 3 model 5 sample 5 ,Tier_C,Tier_C_low_priority_pose,-7.378,3.4549,1.4122,73.3333,44.4444,Acceptable_pocket_alignment
+buried 2 model 8 sample 3 ,Tier_C,Tier_C_low_priority_pose,-7.333,3.3144,0.8936,81.8182,80,Borderline_pocket_deviation
+buried 0 model 5 sample 7 ,Tier_C,Tier_C_low_priority_pose,-7.274,7.3879,5.4769,53.3333,0,Acceptable_pocket_alignment
+buried 7 model 7 sample 5 ,Tier_C,Tier_C_low_priority_pose,-7.231,6.746,1.6573,81.8182,50,Acceptable_pocket_alignment
+buried 0 model 9 sample 9,Tier_C,Tier_C_low_priority_pose,-6.806,4.1996,2.0994,68.4211,66.6667,Acceptable_pocket_alignment
+buried 4 model 4 sample 7 ,Tier_C,Tier_C_low_priority_pose,-5.962,13.4192,11.937,17.6471,0,Acceptable_pocket_alignment
+buried 5 model 9 sample 7 ,Tier_C,Tier_C_low_priority_pose,-5.921,8.7953,6.2254,57.1429,0,Acceptable_pocket_alignment
+buried 5 model 1 sample 4 ,Tier_C,Tier_C_low_priority_pose,-5.899,1.6686,1.3167,85,0,Acceptable_pocket_alignment
+buried 2 model 9 sample 3 ,Tier_C,Tier_C_low_priority_pose,-5.371,9.2198,8.6393,31.5789,66.6667,Acceptable_pocket_alignment
+buried 8 model 2 sample 7,Tier_C,Tier_C_low_priority_pose,-5.279,13.5304,11.948,4.5455,0,Acceptable_pocket_alignment
